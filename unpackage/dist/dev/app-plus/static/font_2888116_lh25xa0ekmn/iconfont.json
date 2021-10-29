@@ -1,0 +1,177 @@
+{
+  "id": "2888116",
+  "name": "智慧学工",
+  "font_family": "font_family",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7404519",
+      "name": "勾",
+      "font_class": "gou",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "18175782",
+      "name": "加号,收起,添加",
+      "font_class": "checkbox-plus-full",
+      "unicode": "ea6e",
+      "unicode_decimal": 60014
+    },
+    {
+      "icon_id": "13604664",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "6270980",
+      "name": "三角形",
+      "font_class": "sanjiaoxing",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "5387527",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "eaf3",
+      "unicode_decimal": 60147
+    },
+    {
+      "icon_id": "1221568",
+      "name": "时钟",
+      "font_class": "clock",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8652814",
+      "name": "喇叭",
+      "font_class": "laba",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "810220",
+      "name": "箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1288599",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "25144324",
+      "name": "活动",
+      "font_class": "send-check",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "25144307",
+      "name": "复制2",
+      "font_class": "text-box-multiple",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "25144299",
+      "name": "复制",
+      "font_class": "text-box-multiple-outline",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "25144102",
+      "name": "流程2",
+      "font_class": "swap-vertical-variant",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "25144068",
+      "name": "返校2",
+      "font_class": "a-svg11",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "25144066",
+      "name": "寝室2",
+      "font_class": "a-svg10",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "25144052",
+      "name": "返校",
+      "font_class": "a-svg9",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "25144051",
+      "name": "检查",
+      "font_class": "a-svg8",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "25144047",
+      "name": "流程",
+      "font_class": "a-svg7",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "25144034",
+      "name": "svg (6)",
+      "font_class": "a-svg6",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "25144031",
+      "name": "菜单",
+      "font_class": "a-svg5",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "25144016",
+      "name": "日历2",
+      "font_class": "a-svg4",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "25144008",
+      "name": "日历",
+      "font_class": "a-svg3",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "25143995",
+      "name": "时间",
+      "font_class": "a-svg2",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "25143984",
+      "name": "信",
+      "font_class": "a-svg1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
